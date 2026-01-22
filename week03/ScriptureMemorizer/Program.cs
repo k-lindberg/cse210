@@ -1,3 +1,5 @@
+// Enhancement: I added multiple scriptures and a randomizer to choose which one to display.
+
 using System;
 using System.Collections.Generic;
 
