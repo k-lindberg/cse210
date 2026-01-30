@@ -22,7 +22,7 @@ class Program
         video2.AddComment(new Comment("Mike", "Nice visuals."));
         video2.AddComment(new Comment("Gavin", "Happy Easter!"));
         video2.AddComment(new Comment("Derek", "I love the music!"));
-        video2.AddComment(new Comment("Lisa", "Very inspiring"));
+        video2.AddComment(new Comment("Lisa", "Very inspiring."));
 
         ytVideo.Add(video2);
 
@@ -30,7 +30,7 @@ class Program
 
         video3.AddComment(new Comment("Cecil", "I love this church!"));
         video3.AddComment(new Comment("Mandi", "Truely Joyful."));
-        video3.AddComment(new Comment("Darrin", "Couldn't agree more,"));
+        video3.AddComment(new Comment("Darrin", "Couldn't agree more."));
         video3.AddComment(new Comment("Adalynn", "Amazing message!"));
 
         ytVideo.Add(video3);
