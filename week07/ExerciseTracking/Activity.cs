@@ -17,6 +17,6 @@ public abstract class Activity
     
     public string GetSummary()
     {
-        return $"{_date} {GetType().Name} ({_minutes})- Distance {Distance():0.0} miles, Speed {Speed():0.0} mph, Pace: {Pace():0.0} min per mile";
+        return $"{_date} {GetType().Name} ({_minutes} min)- Distance {Distance():0.0} miles, Speed {Speed():0.0} mph, Pace: {Pace():0.0} min per mile";
     }
 }
